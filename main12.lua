@@ -15,4 +15,4 @@ AddEventHandler("onResourceStart", start)
 AddEventHandler("onResourceStop", stop)
 
 
--- This script will print "Hello, FiveM!" to the console when the resource is started, and "Goodbye, FiveM!" when the resource is stopped.
+-- This script will print "Hello, FiveM!" to the console when the resource is started, and "Goodbye, FiveM!" when the resource is stopped..
